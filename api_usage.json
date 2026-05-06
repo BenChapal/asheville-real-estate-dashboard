@@ -1,0 +1,15 @@
+{
+  "month": "2026-05",
+  "calls_used": 17,
+  "limit": 50,
+  "pulls": [
+    {
+      "timestamp": "2026-05-05T00:00:00",
+      "successful_zips": 15,
+      "failed_zips": [],
+      "calls_charged": 15,
+      "monthly_total_after": 17,
+      "note": "Manually seeded \u2014 calls made before automation was set up"
+    }
+  ]
+}
