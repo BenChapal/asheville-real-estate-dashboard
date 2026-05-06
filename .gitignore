@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sensitive / not needed in repo
+.env
+*.log
+
+# Large/unrelated data files
+DisasterDeclarationsSummaries.csv
+HousingAssistanceOwners.csv
+HousingAssistanceRenters.csv
+IHP Data Helene FEMA*.csv
+Hurricane Helene FEMA Assistance.twb
+My Tableau Repository/
+
+# Claude internal
+.claude/
